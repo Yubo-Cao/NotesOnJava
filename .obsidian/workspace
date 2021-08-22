@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "06ab54bef71fbe3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7f5b26d07f7ab73",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6c2d27506becc6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf83fa36142c3daa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d20e910eef3e8f4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "34e6545955ee850e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4940c47c1a108639",
+    "type": "split",
+    "children": [
+      {
+        "id": "08cdd91278dec3d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51bb8402aa0fbc69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c7f5b26d07f7ab73",
+  "lastOpenFiles": [
+    "面向对象-OOP.md",
+    "Super关键字.md",
+    "UML图.md",
+    "Object类.md",
+    "多态-Polymorphism.md",
+    "方法的重写-Override-Overwrite.md",
+    "继承-Inheritance.md",
+    "面向对象2.md",
+    "未命名.md"
+  ]
+}
